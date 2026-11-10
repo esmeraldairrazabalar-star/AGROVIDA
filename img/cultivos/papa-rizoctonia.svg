@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_rz" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EFEBE9"/><stop offset="100%" stop-color="#D7CCC8"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_rz)"/>
+  <ellipse cx="230" cy="150" rx="125" ry="85" fill="#FFE082" stroke="#BF360C" stroke-width="3"/>
+  <path d="M160 120 Q170 110 180 125 Q175 140 160 135 Z" fill="#1A1412"/>
+  <path d="M210 95 Q230 90 235 110 Q215 120 205 105 Z" fill="#212121"/>
+  <path d="M260 130 Q280 120 290 140 Q270 155 255 145 Z" fill="#1A1412"/>
+  <circle cx="190" cy="165" r="10" fill="#212121"/><circle cx="230" cy="175" r="14" fill="#1A1412"/><circle cx="300" cy="170" r="9" fill="#212121"/>
+  <path d="M120 120 C80 90 85 40 80 10" stroke="#AED581" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M90 70 C85 55 83 45 80 35" stroke="#4E342E" stroke-width="14" fill="none"/>
+  <rect x="18" y="16" width="245" height="34" rx="8" fill="#263238" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Costra negra / Rizoctonia</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_pol" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#E0E0E0"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_pol)"/>
+  <path d="M100 140 C100 80 170 60 250 60 C330 60 370 110 360 170 C350 230 280 250 190 240 C120 230 100 200 100 140 Z" fill="#FFE082" stroke="#E65100" stroke-width="3"/>
+  <circle cx="160" cy="110" r="9" fill="#212121"/>
+  <ellipse cx="160" cy="122" rx="14" ry="6" fill="#5D4037" opacity="0.8"/>
+  <circle cx="290" cy="140" r="8" fill="#212121"/>
+  <ellipse cx="295" cy="150" rx="12" ry="5" fill="#5D4037" opacity="0.8"/>
+  <path d="M165 115 Q220 130 285 140" stroke="#795548" stroke-width="12" stroke-dasharray="6 4" fill="none"/>
+  <path d="M200 125 Q230 135 250 132" stroke="#F8BBD0" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <circle cx="253" cy="132" r="3" fill="#5D4037"/>
+  <g transform="translate(60, 45) scale(0.7)">
+    <path d="M60 40 L20 15 Q40 5 70 25 Z" fill="#757575" stroke="#424242" stroke-width="2"/>
+    <path d="M60 40 L100 15 Q80 5 50 25 Z" fill="#616161" stroke="#424242" stroke-width="2"/>
+    <ellipse cx="60" cy="40" rx="6" ry="16" fill="#37474F"/>
+    <path d="M58 24 L50 10" stroke="#212121" stroke-width="1.5"/>
+    <path d="M62 24 L70 10" stroke="#212121" stroke-width="1.5"/>
+  </g>
+  <rect x="18" y="16" width="225" height="34" rx="8" fill="#37474F" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Polilla de la papa (Tecia)</text>
+</svg>

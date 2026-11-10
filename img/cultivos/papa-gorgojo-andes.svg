@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="bg_gg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EFEBE9"/><stop offset="100%" stop-color="#D7CCC8"/></linearGradient>
+    <radialGradient id="tuber" cx="45%" cy="40%" r="55%"><stop offset="0%" stop-color="#FFE082"/><stop offset="80%" stop-color="#FFB300"/><stop offset="100%" stop-color="#FF8F00"/></radialGradient>
+  </defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_gg)"/>
+  <path d="M80 150 C80 90 140 70 220 70 C300 70 350 110 350 170 C350 230 280 250 200 250 C120 250 80 210 80 150 Z" fill="url(#tuber)" stroke="#BF360C" stroke-width="3"/>
+  <path d="M120 110 Q135 115 150 110" stroke="#8D6E63" stroke-width="3" fill="none"/>
+  <path d="M280 120 Q295 125 310 120" stroke="#8D6E63" stroke-width="3" fill="none"/>
+  <path d="M140 180 Q170 140 220 150 Q260 160 270 200 Q240 220 190 210 Z" fill="#3E2723"/>
+  <circle cx="160" cy="170" r="4" fill="#212121"/><circle cx="180" cy="160" r="3" fill="#212121"/><circle cx="210" cy="165" r="4" fill="#212121"/><circle cx="240" cy="180" r="3" fill="#212121"/>
+  <path d="M220 185 C210 170 185 175 180 190 C175 205 195 215 210 205" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <circle cx="222" cy="183" r="5" fill="#BF360C"/>
+  <g transform="translate(60, 40) scale(0.65)">
+    <ellipse cx="60" cy="70" rx="28" ry="36" fill="#3E2723" stroke="#212121" stroke-width="2"/>
+    <ellipse cx="60" cy="30" rx="16" ry="14" fill="#2E1B15"/>
+    <path d="M60 20 L60 -5" stroke="#2E1B15" stroke-width="6" stroke-linecap="round"/>
+    <path d="M40 50 Q10 40 5 60" stroke="#212121" stroke-width="4" fill="none"/>
+    <path d="M40 70 Q10 70 5 90" stroke="#212121" stroke-width="4" fill="none"/>
+    <path d="M80 50 Q110 40 115 60" stroke="#212121" stroke-width="4" fill="none"/>
+    <path d="M80 70 Q110 70 115 90" stroke="#212121" stroke-width="4" fill="none"/>
+  </g>
+  <rect x="18" y="16" width="240" height="34" rx="8" fill="#4E342E" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Gorgojo de los Andes (Papa)</text>
+</svg>

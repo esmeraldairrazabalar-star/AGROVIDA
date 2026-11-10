@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_mz" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F1F8E9"/><stop offset="100%" stop-color="#DCEDC8"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_mz)"/>
+  <path d="M40 250 Q200 180 370 70 L380 90 Q200 210 40 270 Z" fill="#7CB342"/>
+  <path d="M40 260 Q200 195 375 80" stroke="#AED581" stroke-width="4" fill="none"/>
+  <path d="M70 230 Q210 170 350 75" stroke="#9CCC65" stroke-width="1.5" stroke-dasharray="8 4" fill="none"/>
+  <path d="M55 250 Q200 190 340 95" stroke="#9CCC65" stroke-width="1.5" stroke-dasharray="8 4" fill="none"/>
+  <g fill="#616161" stroke="#FDD835" stroke-width="1.5">
+    <rect x="160" y="145" width="55" height="11" rx="2" transform="rotate(-23 160 145)"/>
+    <rect x="230" y="115" width="65" height="10" rx="2" transform="rotate(-23 230 115)"/>
+    <rect x="130" y="180" width="45" height="9" rx="2" transform="rotate(-23 130 180)"/>
+    <rect x="270" y="90" width="50" height="10" rx="2" transform="rotate(-23 270 90)"/>
+    <rect x="200" y="150" width="40" height="8" rx="2" transform="rotate(-23 200 150)"/>
+  </g>
+  <rect x="18" y="16" width="245" height="34" rx="8" fill="#424242" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Mancha foliar / Cercospora</text>
+</svg>

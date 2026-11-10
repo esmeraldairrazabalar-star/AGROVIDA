@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_apg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F1F8E9"/><stop offset="100%" stop-color="#DCEDC8"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_apg)"/>
+  <path d="M140 260 Q180 160 210 90" stroke="#558B2F" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="250" cy="100" rx="40" ry="24" fill="#8BC34A" stroke="#33691E" stroke-width="2" transform="rotate(-20 250 100)"/>
+  <g fill="#AEEA00" stroke="#33691E" stroke-width="1.2">
+    <ellipse cx="210" cy="115" rx="6" ry="9"/><ellipse cx="220" cy="105" rx="7" ry="10"/><ellipse cx="230" cy="118" rx="6" ry="9"/>
+    <ellipse cx="205" cy="130" rx="5" ry="8"/><ellipse cx="215" cy="140" rx="6" ry="9"/><ellipse cx="225" cy="132" rx="5" ry="8"/>
+    <ellipse cx="240" cy="108" rx="6" ry="9"/><ellipse cx="252" cy="115" rx="5" ry="8"/><ellipse cx="260" cy="102" rx="6" ry="9"/>
+  </g>
+  <rect x="18" y="16" width="235" height="34" rx="8" fill="#33691E" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Pulgón verde de la arveja</text>
+</svg>

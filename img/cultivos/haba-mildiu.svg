@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_pm" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F1F8E9"/><stop offset="100%" stop-color="#DCEDC8"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_pm)"/>
+  <path d="M120 250 Q160 160 210 70" stroke="#558B2F" stroke-width="6" stroke-linecap="round"/>
+  <path d="M190 90 C130 50 190 10 270 30 C340 50 350 130 300 170 C240 200 190 160 190 90 Z" fill="#7CB342" stroke="#33691E" stroke-width="3"/>
+  <!-- Manchas cloróticas amarillentas en haz -->
+  <path d="M220 50 Q260 40 270 80 Q240 95 210 75 Z" fill="#FFEE58" opacity="0.85"/>
+  <path d="M260 90 Q305 85 310 125 Q275 140 250 115 Z" fill="#FDD835" opacity="0.85"/>
+  <!-- Envés con fieltro grisáceo violáceo algodonoso -->
+  <ellipse cx="260" cy="110" rx="35" ry="24" fill="#90A4AE" opacity="0.8" stroke="#607D8B" stroke-width="2" stroke-dasharray="3 2"/>
+  <rect x="18" y="16" width="220" height="34" rx="8" fill="#37474F" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Mildiu del haba (Peronospora)</text>
+</svg>

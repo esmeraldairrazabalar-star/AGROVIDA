@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="bg_pt" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EBF3EB"/><stop offset="100%" stop-color="#D7E7D7"/></linearGradient>
+    <radialGradient id="necro1" cx="40%" cy="40%" r="60%"><stop offset="0%" stop-color="#1A1412"/><stop offset="60%" stop-color="#3E2723"/><stop offset="85%" stop-color="#5D4037"/><stop offset="100%" stop-color="#8D6E63"/></radialGradient>
+  </defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_pt)"/>
+  <path d="M70 260 Q140 200 200 130" stroke="#33691E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M190 140 C140 70 210 20 280 40 C340 60 360 140 310 180 C260 220 210 180 190 140 Z" fill="#689F38" stroke="#33691E" stroke-width="3"/>
+  <path d="M220 45 C270 45 345 80 340 145 C320 180 270 175 235 150 C215 130 205 75 220 45 Z" fill="#FDD835" opacity="0.85"/>
+  <path d="M235 50 C280 50 335 85 330 140 C310 170 275 165 245 145 C225 125 220 80 235 50 Z" fill="url(#necro1)"/>
+  <path d="M228 55 C270 58 322 92 318 135" stroke="#FFFFFF" stroke-width="4.5" stroke-dasharray="3 3" opacity="0.9" fill="none"/>
+  <path d="M200 130 Q260 110 300 100" stroke="#8BC34A" stroke-width="2.5" fill="none"/>
+  <path d="M230 120 Q260 140 280 155" stroke="#8BC34A" stroke-width="2" fill="none"/>
+  <path d="M110 190 C80 150 110 110 150 125 C180 140 185 180 160 200 C135 220 120 210 110 190 Z" fill="#7CB342" stroke="#33691E" stroke-width="2.5"/>
+  <circle cx="140" cy="155" r="14" fill="#FBC02D"/>
+  <circle cx="140" cy="155" r="10" fill="#2E1B15"/>
+  <rect x="18" y="16" width="220" height="34" rx="8" fill="#1B5E20" opacity="0.92"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Gota / Tizón tardío (Papa)</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_hb" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F1F8E9"/><stop offset="100%" stop-color="#DCEDC8"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_hb)"/>
+  <path d="M110 260 L140 20" stroke="#558B2F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M130 160 C90 120 120 60 210 70 C290 80 310 160 220 180 C170 190 140 180 130 160 Z" fill="#7CB342" stroke="#33691E" stroke-width="3"/>
+  <ellipse cx="230" cy="115" rx="26" ry="18" fill="#4E342E" stroke="#B71C1C" stroke-width="2"/>
+  <circle cx="230" cy="115" r="8" fill="#27120C"/>
+  <ellipse cx="170" cy="140" rx="16" ry="12" fill="#5D4037" stroke="#C62828" stroke-width="2"/>
+  <circle cx="270" cy="145" r="14" fill="#4E342E" stroke="#B71C1C" stroke-width="2"/>
+  <circle cx="180" cy="95" r="10" fill="#4E342E"/><circle cx="265" cy="90" r="9" fill="#5D4037"/><circle cx="210" cy="160" r="8" fill="#3E2723"/>
+  <circle cx="205" cy="130" r="4" fill="#3E2723"/><circle cx="245" cy="140" r="3.5" fill="#3E2723"/><circle cx="280" cy="110" r="4.5" fill="#3E2723"/>
+  <rect x="18" y="16" width="240" height="34" rx="8" fill="#3E2723" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Mancha chocolate (Haba)</text>
+</svg>

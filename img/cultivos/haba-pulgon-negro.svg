@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_aph" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#E8F5E9"/><stop offset="100%" stop-color="#C8E6C9"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_aph)"/>
+  <path d="M120 260 Q170 160 210 110 Q240 80 270 90 Q290 100 280 120" stroke="#689F38" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M210 110 Q160 80 170 40 Q210 50 220 80 Z" fill="#8BC34A" stroke="#33691E" stroke-width="2"/>
+  <path d="M270 90 Q320 60 340 90 Q310 120 280 110 Z" fill="#7CB342" stroke="#33691E" stroke-width="2"/>
+  <g fill="#1A1412" stroke="#424242" stroke-width="1">
+    <ellipse cx="230" cy="100" rx="5" ry="6"/><ellipse cx="238" cy="95" rx="6" ry="7"/><ellipse cx="246" cy="98" rx="5" ry="6"/>
+    <ellipse cx="225" cy="108" rx="6" ry="7"/><ellipse cx="235" cy="107" rx="5" ry="6"/><ellipse cx="245" cy="106" rx="6" ry="7"/>
+    <ellipse cx="255" cy="96" rx="5" ry="6"/><ellipse cx="262" cy="102" rx="6" ry="7"/><ellipse cx="270" cy="108" rx="5" ry="6"/>
+    <ellipse cx="218" cy="115" rx="5" ry="6"/><ellipse cx="228" cy="118" rx="6" ry="7"/><ellipse cx="238" cy="117" rx="5" ry="6"/>
+    <ellipse cx="250" cy="116" rx="5" ry="6"/><ellipse cx="260" cy="115" rx="6" ry="7"/><ellipse cx="272" cy="118" rx="5" ry="6"/>
+  </g>
+  <rect x="18" y="16" width="220" height="34" rx="8" fill="#212121" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Pulgón negro (Aphis fabae)</text>
+</svg>

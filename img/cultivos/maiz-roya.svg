@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_mr" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F9FBE7"/><stop offset="100%" stop-color="#E8F5E9"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_mr)"/>
+  <path d="M50 250 Q210 180 370 80 L380 100 Q210 205 50 270 Z" fill="#8BC34A"/>
+  <path d="M50 260 Q210 195 375 90" stroke="#AED581" stroke-width="4" fill="none"/>
+  <!-- Pústulas doradas/canela redondeadas y alargadas en ambas superficies -->
+  <g fill="#E65100" stroke="#FFE082" stroke-width="1.8">
+    <ellipse cx="140" cy="190" rx="6" ry="9" transform="rotate(-20 140 190)"/>
+    <ellipse cx="165" cy="175" rx="7" ry="11" transform="rotate(-20 165 175)"/>
+    <ellipse cx="190" cy="165" rx="6" ry="10" transform="rotate(-20 190 165)"/>
+    <ellipse cx="225" cy="150" rx="8" ry="12" transform="rotate(-20 225 150)"/>
+    <ellipse cx="250" cy="135" rx="7" ry="11" transform="rotate(-20 250 135)"/>
+    <ellipse cx="280" cy="120" rx="8" ry="13" transform="rotate(-20 280 120)"/>
+    <ellipse cx="310" cy="110" rx="6" ry="9" transform="rotate(-20 310 110)"/>
+    <ellipse cx="175" cy="200" rx="5" ry="8" transform="rotate(-20 175 200)"/>
+    <ellipse cx="235" cy="170" rx="7" ry="10" transform="rotate(-20 235 170)"/>
+    <ellipse cx="295" cy="140" rx="6" ry="9" transform="rotate(-20 295 140)"/>
+  </g>
+  <rect x="18" y="16" width="220" height="34" rx="8" fill="#E65100" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Roya común (Puccinia sorghi)</text>
+</svg>

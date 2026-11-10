@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_qn" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFF8E1"/><stop offset="100%" stop-color="#F5F5F5"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_qn)"/>
+  <path d="M100 260 Q170 170 200 90" stroke="#33691E" stroke-width="5" stroke-linecap="round"/>
+  <path d="M200 100 C150 40 180 10 240 25 C300 10 350 50 320 120 C290 170 240 190 200 100 Z" fill="#7CB342" stroke="#33691E" stroke-width="3"/>
+  <path d="M165 75 L140 85 M275 80 L310 95" stroke="#33691E" stroke-width="2.5"/>
+  <path d="M210 35 Q235 25 255 45 Q245 70 215 55 Z" fill="#FDD835"/>
+  <path d="M260 50 Q290 40 300 70 Q280 85 255 65 Z" fill="#FB8C00"/>
+  <path d="M225 75 Q265 80 270 120 Q235 140 210 110 Z" fill="#C2185B" opacity="0.85"/>
+  <path d="M280 90 Q315 100 305 135 Q275 140 270 115 Z" fill="#8E24AA" opacity="0.8"/>
+  <circle cx="250" cy="100" r="16" fill="#B0BEC5" stroke="#78909C" stroke-width="1.5" stroke-dasharray="3 2" opacity="0.75"/>
+  <rect x="18" y="16" width="225" height="34" rx="8" fill="#AD1457" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Mildiu de la quinua</text>
+</svg>

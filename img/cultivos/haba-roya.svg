@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_ry" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#F9FBE7"/><stop offset="100%" stop-color="#F0F4C3"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_ry)"/>
+  <path d="M120 250 Q160 160 210 60" stroke="#33691E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M190 80 C130 50 180 10 260 25 C340 40 360 120 310 170 C250 210 190 150 190 80 Z" fill="#8BC34A" stroke="#33691E" stroke-width="3"/>
+  <g fill="#D84315" stroke="#FFE082" stroke-width="2">
+    <circle cx="260" cy="65" r="8"/><circle cx="285" cy="75" r="7"/><circle cx="240" cy="85" r="9"/>
+    <circle cx="305" cy="100" r="8"/><circle cx="270" cy="110" r="10"/><circle cx="230" cy="120" r="7"/>
+    <circle cx="260" cy="135" r="9"/><circle cx="285" cy="145" r="8"/><circle cx="215" cy="95" r="6"/>
+    <circle cx="320" cy="125" r="7"/><circle cx="245" cy="155" r="7"/><circle cx="280" cy="165" r="6"/>
+  </g>
+  <rect x="18" y="16" width="190" height="34" rx="8" fill="#BF360C" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Roya del haba (Pústulas)</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_kc" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFFDE7"/><stop offset="100%" stop-color="#FFF9C4"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_kc)"/>
+  <path d="M140 260 L190 120" stroke="#8D6E63" stroke-width="7" stroke-linecap="round"/>
+  <g fill="#FBC02D" stroke="#F57F17" stroke-width="1.5">
+    <circle cx="180" cy="130" r="14"/><circle cx="205" cy="120" r="16"/><circle cx="170" cy="100" r="15"/>
+    <circle cx="200" cy="90" r="17"/><circle cx="225" cy="100" r="15"/><circle cx="190" cy="65" r="16"/>
+    <circle cx="215" cy="60" r="15"/><circle cx="200" cy="35" r="14"/>
+  </g>
+  <path d="M165 90 Q210 75 235 110 Q190 135 165 90 Z" fill="#FFFFFF" opacity="0.6" stroke="#E0E0E0" stroke-width="2"/>
+  <path d="M175 105 Q205 90 220 115" stroke="#C0CA33" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <circle cx="223" cy="116" r="4" fill="#3E2723"/>
+  <rect x="18" y="16" width="245" height="34" rx="8" fill="#F57F17" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Kcona kcona / Polilla quinua</text>
+</svg>

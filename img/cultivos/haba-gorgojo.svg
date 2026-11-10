@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs><linearGradient id="bg_bru" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#EFEBE9"/><stop offset="100%" stop-color="#D7CCC8"/></linearGradient></defs>
+  <rect width="400" height="280" rx="14" fill="url(#bg_bru)"/>
+  <!-- Grano de haba grande aplanado verde-amarillento -->
+  <path d="M120 150 C110 90 170 60 250 70 C330 80 340 160 310 210 C270 250 170 250 130 220 C110 200 125 180 120 150 Z" fill="#DCE775" stroke="#9E9D24" stroke-width="3.5"/>
+  <path d="M130 140 Q138 160 132 180" stroke="#827717" stroke-width="4" stroke-linecap="round" fill="none"/><!-- Hilio del haba -->
+  <!-- Orificio circular perfecto de emergencia del gorgojo adulto -->
+  <circle cx="250" cy="140" r="22" fill="#212121" stroke="#5D4037" stroke-width="3"/>
+  <circle cx="280" cy="180" r="16" fill="#3E2723"/>
+  <!-- Gorgojo adulto al costado -->
+  <g transform="translate(60, 45) scale(0.65)">
+    <ellipse cx="60" cy="65" rx="26" ry="32" fill="#4E342E" stroke="#212121" stroke-width="2"/>
+    <ellipse cx="60" cy="28" rx="15" ry="12" fill="#3E2723"/>
+    <path d="M40 50 Q15 40 10 60" stroke="#212121" stroke-width="4" fill="none"/>
+    <path d="M80 50 Q105 40 110 60" stroke="#212121" stroke-width="4" fill="none"/>
+  </g>
+  <rect x="18" y="16" width="225" height="34" rx="8" fill="#4E342E" opacity="0.94"/>
+  <text x="28" y="38" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Gorgojo del haba (Bruchus)</text>
+</svg>
